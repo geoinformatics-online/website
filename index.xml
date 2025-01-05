@@ -6,65 +6,65 @@
       <description>Last 10 notes on 🪴 Geoinformatics-online</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Afstand til skov</title>
-    <link>https://geoinformatics.online/GeoILUM/Data/quantifiers/Afstand-til-skov</link>
-    <guid>https://geoinformatics.online/GeoILUM/Data/quantifiers/Afstand-til-skov</guid>
-    <description>Skov er her defineret på basis af Basemap 04 hvor basmap typerne 311000, 312000 Afstanden er beregnet ved brug af GDAL proximity og zonal statistics hvor minimum er brugt for at give ...</description>
-    <pubDate>Wed, 13 Nov 2024 10:45:45 GMT</pubDate>
+    <title>Welcome to The Geoinformatics online</title>
+    <link>https://geoinformatics.online/</link>
+    <guid>https://geoinformatics.online/</guid>
+    <description>Welcome to your gateway for expanding knowledge in GIS and Geoinformatics! Whether you’re just starting or looking to deepen your expertise, this digital garden of interconnected ...</description>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
   </item><item>
-    <title>Basemap 04</title>
-    <link>https://geoinformatics.online/GeoILUM/Data/input-data/Basemap-04</link>
-    <guid>https://geoinformatics.online/GeoILUM/Data/input-data/Basemap-04</guid>
-    <description> Basemap is a national map of land use and land cover for Denmark. Basemap combines publicly available spatial information into one map. Basemap is a raster map with a cell size of 10 x 10 meter.</description>
-    <pubDate>Wed, 13 Nov 2024 10:31:54 GMT</pubDate>
-  </item><item>
-    <title>Traffic and Mobility data (Dataudveksleren)</title>
-    <link>https://geoinformatics.online/Data-and-representations/Key-Danish-Datasets/Traffic-and-Mobility-data-(Dataudveksleren)</link>
-    <guid>https://geoinformatics.online/Data-and-representations/Key-Danish-Datasets/Traffic-and-Mobility-data-(Dataudveksleren)</guid>
-    <description>Dataudveksleren is the National access point for traffic and mobility data. Among the data available is: Rejseplanen NeTEx Rejseplanen NeTEx files contain public transportation schedules for trains and buses in Denmark and associated geographic information.</description>
-    <pubDate>Tue, 29 Oct 2024 07:56:48 GMT</pubDate>
-  </item><item>
-    <title>Network Timetable Exchange</title>
-    <link>https://geoinformatics.online/Data-and-representations/Data-Formats-and-Standards/NeTEx</link>
-    <guid>https://geoinformatics.online/Data-and-representations/Data-Formats-and-Standards/NeTEx</guid>
-    <description>NeTEx (Network Timetable Exchange) is a standardised data format specifically designed for the exchange of complex public transportation information. It is part of a broader family of standards developed under the European Committee for Standardization (CEN) and is primarily used across Europe.</description>
-    <pubDate>Tue, 29 Oct 2024 06:48:25 GMT</pubDate>
-  </item><item>
-    <title>Docker</title>
-    <link>https://geoinformatics.online/Tool-Collections/Docker</link>
-    <guid>https://geoinformatics.online/Tool-Collections/Docker</guid>
-    <description>Docker containers give you a fully isolated environment, which can be easily shared and deployed across different systems. This means that a docker container can be sent from one organisation to another, and it will still run, e.g it is almost independent of the underlying hardware.</description>
-    <pubDate>Thu, 24 Oct 2024 10:14:34 GMT</pubDate>
+    <title>osmium-tool</title>
+    <link>https://geoinformatics.online/Tool-Collections/osmium-tool</link>
+    <guid>https://geoinformatics.online/Tool-Collections/osmium-tool</guid>
+    <description>osmium-tool is a tool for : Get information about an OpenStreetMap.osm file Show the differences between OSM files Convert OSM files from one format into another (supports all XML ...</description>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
   </item><item>
     <title>Open Trip Planner  (OTP)</title>
     <link>https://geoinformatics.online/Tool-Collections/Transport-Network-Analysis/OpenTripPlanner</link>
     <guid>https://geoinformatics.online/Tool-Collections/Transport-Network-Analysis/OpenTripPlanner</guid>
     <description>OpenTripPlanner (OTP) is an advanced, open-source route planning software designed to provide individualised journey suggestions based on multiple criteria, making it a powerful ...</description>
-    <pubDate>Thu, 24 Oct 2024 06:36:49 GMT</pubDate>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
   </item><item>
-    <title>OSM.PBF</title>
-    <link>https://geoinformatics.online/Data-and-representations/Data-Formats-and-Standards/OSM.PBF</link>
-    <guid>https://geoinformatics.online/Data-and-representations/Data-Formats-and-Standards/OSM.PBF</guid>
-    <description>The OSM.PBF (Protocolbuffer Binary Format) is a compressed binary format used to store OpenStreetMap (OSM) data. This format is designed to be more efficient in terms of size and speed compared to the older XML-based .osm format.</description>
-    <pubDate>Thu, 24 Oct 2024 06:32:19 GMT</pubDate>
+    <title>Conveyal R5</title>
+    <link>https://geoinformatics.online/Tool-Collections/Transport-Network-Analysis/Conveyal-R5</link>
+    <guid>https://geoinformatics.online/Tool-Collections/Transport-Network-Analysis/Conveyal-R5</guid>
+    <description>Conveyal R5 (R5: Rapid Realistic Routing on Real-world and Reimagined networks) is an advanced routing and accessibility analysis engine designed to support large-scale transportation ...</description>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
   </item><item>
-    <title>SQL</title>
-    <link>https://geoinformatics.online/Programming-Languages/SQL</link>
-    <guid>https://geoinformatics.online/Programming-Languages/SQL</guid>
-    <description>SQL: Structured Query Language SQL (Structured Query Language) is the standard language used to interact with relational databases. It allows users to retrieve, manipulate, and manage data through various commands and clauses.</description>
-    <pubDate>Mon, 14 Oct 2024 20:35:24 GMT</pubDate>
+    <title>Docker</title>
+    <link>https://geoinformatics.online/Tool-Collections/Docker</link>
+    <guid>https://geoinformatics.online/Tool-Collections/Docker</guid>
+    <description>Docker containers give you a fully isolated environment, which can be easily shared and deployed across different systems. This means that a docker container can be sent from one organisation to another, and it will still run, e.g it is almost independent of the underlying hardware.</description>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
   </item><item>
     <title>Spatial SQL</title>
     <link>https://geoinformatics.online/Programming-Languages/Spatial-SQL</link>
     <guid>https://geoinformatics.online/Programming-Languages/Spatial-SQL</guid>
     <description>Spatial SQL: Working with Spatial Data in Databases Spatial SQL is an extension of SQL that allows you to perform queries and operations on geographic data ...</description>
-    <pubDate>Mon, 14 Oct 2024 20:15:33 GMT</pubDate>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
   </item><item>
-    <title>PostgreSQL</title>
-    <link>https://geoinformatics.online/Processing-Environments/PostgreSQL</link>
-    <guid>https://geoinformatics.online/Processing-Environments/PostgreSQL</guid>
-    <description>PostgreSQL is a highly robust, open-source relational database system that plays a key role in geospatial database management. When combined with the PostGIS extension, it becomes a powerful tool for handling, storing, and querying spatial data.</description>
-    <pubDate>Mon, 14 Oct 2024 20:03:19 GMT</pubDate>
+    <title>SQL</title>
+    <link>https://geoinformatics.online/Programming-Languages/SQL</link>
+    <guid>https://geoinformatics.online/Programming-Languages/SQL</guid>
+    <description>SQL: Structured Query Language SQL (Structured Query Language) is the standard language used to interact with relational databases. It allows users to retrieve, manipulate, and manage data through various commands and clauses.</description>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
+  </item><item>
+    <title>Simple Data Types in Python</title>
+    <link>https://geoinformatics.online/Programming-Languages/Python/Simple-Data-Types-in-Python</link>
+    <guid>https://geoinformatics.online/Programming-Languages/Python/Simple-Data-Types-in-Python</guid>
+    <description>Certainly! Here is the note with the links in the specified format: Note: Simple Data Types in Python Python is a dynamically typed language, meaning that variables in Python do not ...</description>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
+  </item><item>
+    <title>Python geospatial libraries</title>
+    <link>https://geoinformatics.online/Programming-Languages/Python/Python-geospatial-libraries</link>
+    <guid>https://geoinformatics.online/Programming-Languages/Python/Python-geospatial-libraries</guid>
+    <description>Murat Kendir maintains a list of geospatial libraries for Python (The following is a copy from October 2024 the updated version of his lists can be accesed at github.com/tum-gis/geoPythonInfoTree/blob/main/docs/index.md ...</description>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
+  </item><item>
+    <title>Python Data Structures</title>
+    <link>https://geoinformatics.online/Programming-Languages/Python/Python-Data-Structures</link>
+    <guid>https://geoinformatics.online/Programming-Languages/Python/Python-Data-Structures</guid>
+    <description>In Python, data is managed using both simple data types and complex data structures. Simple data types, such as integers, floats, and strings, represent single values and are the building blocks of more complex structures.</description>
+    <pubDate>Sun, 05 Jan 2025 10:54:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
