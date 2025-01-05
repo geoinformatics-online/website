@@ -1,6 +1,6 @@
 ---
-title: Welcome to The GIS garden
-tags: []
+title: Welcome to The Geoinformatics online
+tags:
 ---
 
 Welcome to your gateway for expanding knowledge in **GIS and Geoinformatics!**  
